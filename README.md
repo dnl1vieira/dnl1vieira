@@ -1,10 +1,10 @@
 <h2>Hi I'm Daniel Vieira "dnnL" <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
 ### Contact and networks
 <p align="center">
-  contact me
+  Contact me
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  💻 <b>Web developer - Focused on Angular, Spring-boot technologies </b> &nbsp;
+  💻 <b>Web developer - Focused on Angular and Spring-boot technologies </b> &nbsp;
 </p>
 
 ---
@@ -48,7 +48,15 @@
 
 ---
 
-## Languages
+## Some knowledge in technologies
+
+<div>
+<img alt="swift" src=".github/Swift.png" width="5%" style="vertical-align:top; margin:4px">
+<img alt="java" src=".github/Java.jpg" width="5%" style="vertical-align:top; margin:4px">
+<img alt="spring-boot" src=".github/SpringBoot.png" width="5%" style="vertical-align:top; margin:4px">
+<img alt="typescript" src=".github/Typescript.svg" width="5%" style="vertical-align:top; margin:4px">
+<img alt="typescript" src=".github/react.png" width="5%" style="vertical-align:top; margin:4px">
+</div>
 
 ---
 
