@@ -60,7 +60,7 @@
 
 ---
 
-<p align="center">In my free time I like to play CallOfDuty and Counter-Strike on Computer (🎮), to watch movies (🎞️) ,series (📺), Animes (🎞️) and listen to music (🎵).</p>
+<p align="center"> <b> In my free time I like to play on Computer with some friends (🎮), Watch movies (🎞️) , Series (📺), Animes (🎞️) and listen to music (🎵).</b></p>
 
 ---
 
