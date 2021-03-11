@@ -50,7 +50,7 @@
 
 ## Some knowledge in technologies
 
-<div>
+<div align="center">
 <img alt="swift" src=".github/Swift.png" width="5%" style="vertical-align:top; margin:4px">
 <img alt="java" src=".github/Java.jpg" width="5%" style="vertical-align:top; margin:4px">
 <img alt="spring-boot" src=".github/SpringBoot.png" width="5%" style="vertical-align:top; margin:4px">
