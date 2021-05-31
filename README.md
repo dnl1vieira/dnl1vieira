@@ -30,6 +30,7 @@
 
 <p align="center">
   💻 <b>Web developer - Focused on Angular and Spring-boot technologies </b> &nbsp;
+  💻 <b>Mobile developer - Focused on Learning Swift iOS technology </b> &nbsp;
 </p>
 
 ---
@@ -55,7 +56,6 @@
 <img alt="java" src=".github/Java.jpg" width="5%" style="vertical-align:top; margin:4px">
 <img alt="spring-boot" src=".github/SpringBoot.png" width="5%" style="vertical-align:top; margin:4px">
 <img alt="typescript" src=".github/Typescript.svg" width="5%" style="vertical-align:top; margin:4px">
-<img alt="typescript" src=".github/react.png" width="5%" style="vertical-align:top; margin:4px">
 </div>
 
 ---
