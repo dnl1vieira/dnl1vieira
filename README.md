@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  🌱 I am currently studying: ** React and Swift**
+  🌱 I am currently studying: **Swift**
 </p>
 
 ---
