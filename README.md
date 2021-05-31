@@ -30,9 +30,10 @@
 
 <p align="center">
   💻 <b>Web developer - Focused on Angular and Spring-boot technologies </b> &nbsp;
+</p>
+<p align="center">
   💻 <b>Mobile developer - Focused on Learning Swift iOS technology </b> &nbsp;
 </p>
-
 ---
 
 <p align="center">
