@@ -34,7 +34,7 @@
 <p align="center">
   💻 <b>Mobile developer - Focused on Learning Swift iOS technology </b> &nbsp;
 </p>
----
+
 
 <p align="center">
   📌 Living in <b>São Paulo, Itapecerica da Serra</b>, <b>Brazil</b> &nbsp;
