@@ -17,7 +17,7 @@
     
   </a>
    <a
-    href="linkedin.danielvieira.dev" 
+    href="https://linkedin.danielvieira.dev" 
     alt="LinkedIn"
     target="blank"
   >
