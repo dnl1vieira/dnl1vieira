@@ -11,7 +11,7 @@
   <a
     href="mailto:contato@danielvieira.com" 
     alt="Gmail"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" />
     
@@ -19,7 +19,7 @@
    <a
     href="https://linkedin.danielvieira.dev" 
     alt="LinkedIn"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
