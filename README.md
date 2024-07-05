@@ -27,14 +27,13 @@
 </p>
 
 ---
-
-<p align="center">
-  💻 <b>Web developer - Focused on Angular and Spring-boot technologies </b> &nbsp;
-</p>
 <p align="center">
   💻 <b>Mobile developer - Focused on Learning Swift iOS technology </b> &nbsp;
 </p>
 
+<p align="center">
+  💻 <b>Web developer - Focused on Angular and Spring-boot technologies </b> &nbsp;
+</p>
 
 <p align="center">
   📌 Living in <b>São Paulo, Itapecerica da Serra</b>, <b>Brazil</b> &nbsp;
@@ -45,7 +44,7 @@
 </p>
 
 <p align="center">
-  🌱 I am currently studying: **Swift**
+  🌱 I am currently studying: **SwiftUI**
 </p>
 
 ---
@@ -61,7 +60,7 @@
 
 ---
 
-<p align="center"> <b> In my free time I like to play on Computer with some friends (🎮), Watch movies (🎞️) , Series (📺), Animes (🎞️) and listen to music (🎵).</b></p>
+<p align="center"> <b> In my spare time, I enjoy diving into games like CS, COD, and other FPS titles(🎮). Watching TV series (📺) and listening to music are my passions (🎵).</b></p>
 
 ---
 
